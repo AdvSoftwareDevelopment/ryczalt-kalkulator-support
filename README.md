@@ -2,7 +2,7 @@
 
 **A privacy-first, offline-first lump-sum tax calculator for Polish sole proprietors (JDG).**
 
-👉 **Open the app: https://ryczalt-calculator.app**
+👉 **Open the app: [Calculator app](https://ryczalt.advsoftware.org/)**
 
 This repository is the **support hub** for the app. The source code is not public — you do not need a GitHub account to use the calculator, and nothing about your data ever touches GitHub.
 
@@ -10,7 +10,7 @@ This repository is the **support hub** for the app. The source code is not publi
 |---|---|
 | Report a bug | [**Issues**](../../issues) |
 | Ask how something works / request a feature | [**Discussions**](../../discussions) |
-| Use the app | https://ryczalt-calculator.app |
+| Use the app | [**Calculator app**](https://ryczalt.advsoftware.org/) |
 
 ---
 
